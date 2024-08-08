@@ -3,7 +3,7 @@
 ## Description
 25,581 Images - 88 Facial Landmarks Annotation Data. The dataset includes Asian, black race, Caucasian and brown race. In order to be more challenging, the data includes multiple scenes, multiple poses, different ages, light conditions and complicated expressions. For annotation, 88 facial landmarks and visible and invisible attributes of landmarks were annotated. This data can be used for tasks such as face detection and face recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1353?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1353?source=Github
 
 
 ## Data size
